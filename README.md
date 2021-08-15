@@ -1,5 +1,5 @@
 # gPhoto2-Liveview-Python
-Demo of gPhoto2 live view in python
+Demo of gPhoto2 live view in python.
 Adapted from [aqiank/gphoto2-liveview-example](https://github.com/aqiank/gphoto2-liveview-example)
 
 Requirements
